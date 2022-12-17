@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Coding-Bootcamp-Testimonials/static/css/main.92685cbe.css",
+    "main.js": "/Coding-Bootcamp-Testimonials/static/js/main.e206e90d.js",
+    "static/media/image-john.jpg": "/Coding-Bootcamp-Testimonials/static/media/image-john.5253a557aa7d00d8466f.jpg",
+    "static/media/image-tanya.jpg": "/Coding-Bootcamp-Testimonials/static/media/image-tanya.f54c06576a4cdc261099.jpg",
+    "static/media/pattern-bg.svg": "/Coding-Bootcamp-Testimonials/static/media/pattern-bg.7f46e67e7d84324800ef.svg",
+    "index.html": "/Coding-Bootcamp-Testimonials/index.html",
+    "static/media/pattern-quotes.svg": "/Coding-Bootcamp-Testimonials/static/media/pattern-quotes.219bd182b41259a321a8.svg",
+    "static/media/pattern-curve.svg": "/Coding-Bootcamp-Testimonials/static/media/pattern-curve.05698a95740cb41f8c3c.svg",
+    "static/media/icon-prev.svg": "/Coding-Bootcamp-Testimonials/static/media/icon-prev.f72bba8e1f8b7df258c2.svg",
+    "static/media/icon-next.svg": "/Coding-Bootcamp-Testimonials/static/media/icon-next.43d46d2c26b8260e2b9c.svg",
+    "main.92685cbe.css.map": "/Coding-Bootcamp-Testimonials/static/css/main.92685cbe.css.map",
+    "main.e206e90d.js.map": "/Coding-Bootcamp-Testimonials/static/js/main.e206e90d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92685cbe.css",
+    "static/js/main.e206e90d.js"
+  ]
+}
