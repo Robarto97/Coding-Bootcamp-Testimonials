@@ -56,10 +56,10 @@ main {
           outline: none;
           background-color: white;
         }
-        #left {
+        .left {
           background-image: url(images/icon-prev.svg);
         }
-        #right {
+        .right {
           background-image: url(images/icon-next.svg);
         }
       }

@@ -35,12 +35,12 @@ function App() {
           <div className="buttons">
             <button
               onClick={handlePrev}
-              id="left"
+              className="left"
               aria-label="left-arrow"
             ></button>
             <button
               onClick={handleNext}
-              id="right"
+              className="right"
               aria-label="right-arrow"
             ></button>
           </div>
@@ -52,8 +52,8 @@ function App() {
             the job of my dreams and so excited about the future. ”
           </p>
           <div className="info">
-            <span id="name">Tanya Sinclair</span>
-            <span id="position">UX Engineer</span>
+            <span className="name">Tanya Sinclair</span>
+            <span className="position">UX Engineer</span>
           </div>
         </div>
       </div>
